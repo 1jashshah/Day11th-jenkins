@@ -29,8 +29,7 @@ delivery (CD).
     -   Configure the job to pull the Jenkinsfile from the GitHub
         > repository.
 
-![](vertopal_6ac7ea4df1174079862388fc5fd1d783/media/image1.png){width="6.5in"
-height="3.4166666666666665in"}
+![](photos/media/image1.png)
 
 2.  **Create Jenkinsfile**
 
@@ -48,12 +47,7 @@ height="3.4166666666666665in"}
         -   **Archive Artifacts**: Archive the build artifacts for
             > future use.
 
-![](vertopal_6ac7ea4df1174079862388fc5fd1d783/media/image3.png){width="6.5in"
-height="3.0972222222222223in"}
-
-![](vertopal_6ac7ea4df1174079862388fc5fd1d783/media/image4.png){width="6.5in"
-height="3.0972222222222223in"}
-
+![](photos/media/image3.png)
 3.  **Configure Pipeline Parameters**
 
     -   Allow the pipeline to accept parameters such as Maven goals and
@@ -62,11 +56,9 @@ height="3.0972222222222223in"}
     -   Ensure the pipeline can be easily modified for different build
         > configurations.
 
-> ![](vertopal_6ac7ea4df1174079862388fc5fd1d783/media/image2.png){width="6.5in"
-> height="3.4166666666666665in"}
+> ![](photos/media/image2.png)
 >
-> ![](vertopal_6ac7ea4df1174079862388fc5fd1d783/media/image6.png){width="6.5in"
-> height="3.4166666666666665in"}
+> ![](photos/media/image6.png)
 
 4.  **Run the Pipeline**
 
@@ -76,7 +68,7 @@ height="3.0972222222222223in"}
     -   Monitor the build process through Jenkins\' UI and console
         > output.
 
-> ![](vertopal_6ac7ea4df1174079862388fc5fd1d783/media/image5.png){width="6.5in"
+> ![](photos/media/image5.png){width="6.5in"
 > height="3.0972222222222223in"}
 
 5.  **Deliverables**
